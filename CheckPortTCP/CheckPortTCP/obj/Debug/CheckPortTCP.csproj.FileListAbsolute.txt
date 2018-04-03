@@ -1,0 +1,7 @@
+D:\Lap trinh mang\Check port TCP\CheckPortTCP\CheckPortTCP\bin\Debug\CheckPortTCP.exe.config
+D:\Lap trinh mang\Check port TCP\CheckPortTCP\CheckPortTCP\bin\Debug\CheckPortTCP.exe
+D:\Lap trinh mang\Check port TCP\CheckPortTCP\CheckPortTCP\bin\Debug\CheckPortTCP.pdb
+D:\Lap trinh mang\Check port TCP\CheckPortTCP\CheckPortTCP\obj\Debug\CheckPortTCP.csprojResolveAssemblyReference.cache
+D:\Lap trinh mang\Check port TCP\CheckPortTCP\CheckPortTCP\obj\Debug\CheckPortTCP.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\Check port TCP\CheckPortTCP\CheckPortTCP\obj\Debug\CheckPortTCP.exe
+D:\Lap trinh mang\Check port TCP\CheckPortTCP\CheckPortTCP\obj\Debug\CheckPortTCP.pdb
